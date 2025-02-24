@@ -5,12 +5,14 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is the systematic application of engineering principles to the design, development, testing, and maintenance of software systems. It involves using best practices, tools, and methodologies to ensure that software is reliable, scalable, and efficient.
 
 In the technology industry, software engineering is vital because software is the backbone of most modern technologies. From mobile apps to enterprise systems and cloud services, high-quality software drives innovation, productivity, and user experiences. Good software engineering helps companies deliver solutions that meet user needs, function correctly, and are easy to maintain.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Key Milestones in the Evolution of Software Engineering
 1950s–1960s: Emergence of Software Engineering as a Discipline The term “software engineering” was introduced in the 1960s as a response to the growing complexity of software projects. Early software development was largely unstructured, and this era saw the rise of foundational software development practices.
 1970s: Structured Programming and Methodologies In the 1970s, structured programming principles were developed, emphasizing clear, modular designs and logical flow of control in software programs. This helped make software more manageable, maintainable, and easier to debug.
@@ -18,6 +20,7 @@ Key Milestones in the Evolution of Software Engineering
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Phases of the Software Development Life Cycle (SDLC)
 Requirement Analysis: Understanding and gathering the software requirements from stakeholders and users.
 Design: Planning and architecting the software solution, focusing on structure and components.
@@ -29,6 +32,7 @@ Maintenance: Ongoing updates, fixes, and improvements after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall vs. Agile Methodologies
+
 Waterfall: A traditional, linear approach where each phase of the SDLC is completed before moving to the next. It's best suited for projects with well-defined requirements that are unlikely to change. For example, building software for a specific piece of hardware might follow the waterfall method.
 
 Agile: An iterative, flexible approach that breaks the development process into smaller cycles (sprints). It emphasizes collaboration, frequent feedback, and responsiveness to change. It's ideal for projects where requirements evolve over time, such as developing a mobile app or a SaaS product.
